@@ -137,3 +137,18 @@ result.jpg
 **Вывод: Находит всех людей и супер уверена в своем результате, но что по времени и вычислительным затратам... надо тестить на эмуляторе все и на видосах. А еще разобраться надо как обучать все модели**
 
 
+### Список литературы
+
+https://docs.ultralytics.com/usage/python/
+
+https://github.com/ultralytics/ultralytics/tree/main/ultralytics/models
+
+https://github.com/rbgirshick/fast-rcnn
+
+https://github.com/facebookresearch/detectron2/blob/main/INSTALL.md
+
+https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html
+
+https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
+
+https://github.com/facebookresearch/detectron2/issues/374
